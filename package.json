@@ -1,0 +1,20 @@
+{
+  "name": "encrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes-cross": "^1.0.9",
+    "buffertrim": "^1.0.0",
+    "crypto-js": "^4.1.1",
+    "node-cryptojs-aes": "^0.4.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}

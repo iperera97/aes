@@ -1,0 +1,11 @@
+# node
+1 - encrypt nodejs decript nodejs - done
+2 - invalid secret key - done
+3 - invalid encryption data
+
+# python
+1 - encrypt python decript python
+2 - invalid secret key
+3 - invalid encryption data
+
+1 - encrypt nodejs decript python
